@@ -1,11 +1,11 @@
 export const logger = (req, res, next) => {
   const log = {
-    email: "pratibhasinghh13@gmail.com",
-    name: "pratibha singh",
-    rollNo: "22bk1a6696",
-    accessCode: "vpJgsZ",
-    clientID: "bdc0b3d0-be38-43e2-b682-477b4a5f8bf0",
-    clientSecret: "FHkHJMxbfTTXhryz",
+    "email": "sushmithapothuganti2004@gamil.com",
+    "name": "pothuganti sushmitha",
+    "rollNo": "22bk1a6694",
+   "accessCode": "vpJgsZ",
+   "clientID": "59bda045-81fc-48a8-a94e-64bfb965bfd0",
+    "clientSecret": "kFSasRDcahzWSStH",
     time: new Date().toISOString(),
     method: req.method,
     url: req.originalUrl
